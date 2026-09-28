@@ -1,0 +1,11 @@
+{
+  "name": "rahhal-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Rahhal freight transport website - static HTML/CSS/JS",
+  "scripts": {
+    "build": "echo \"Static site: no build step needed\"",
+    "start": "echo \"Static site: serve index.html\""
+  },
+  "license": "UNLICENSED"
+}
